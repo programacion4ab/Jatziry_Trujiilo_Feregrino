@@ -1,0 +1,104 @@
+@font-face {
+	font-family: Marseline;
+	src:url(../font/Marseline.ttf);
+}
+
+h1{
+  font-family: Marseline;
+	color: white;
+	font-size: 66px;
+}
+header{
+        background-color:  #71DCE5;
+        padding: 25px;
+        font-size:25px;
+        font-family:Century Gothic;
+        text-align: center;/*centrar el titulo*/
+        }
+#lista1{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;/*pendiente*/;
+        }
+li a {
+   float: left; /*pendiente*/
+   padding: 20px 80px;
+   display: block;/*pendiente*/
+   color: white;
+   text-decoration:none;/*quita el interlineado*/ 
+   text-align: center;
+}
+li a:hover{
+      background-color: #01AAC1;
+}
+h2{font-family: "Century Gothic";
+font-family: 26px;
+color: #334258;
+}
+aside{
+  float: right;
+  max-width: 25%;
+  padding-right: ;
+  padding-top: ;
+  font-family: 16px;
+  color: #00204A;
+  text-align: justify;
+}
+h3{
+  font-family: "Century Gothic"
+  font-size: 23px;
+}
+section{
+  float: left;
+  max-width: 68%;
+  font-family: "Arial";
+  font-size: 20px;
+  color: #6C5878;
+  text-align: justify;
+  padding: 5px;
+  padding-left: 40px;
+
+}
+article{
+  padding-bottom: 20px;
+  float: left;
+}
+.imgarticle{
+  float: left;
+  margin-right:  20px;
+}
+li{
+  list-style-type: none;
+}
+footer{
+  clear: both;
+  background-color: #FFC77F;
+  padding: 40px;
+  text-align: center;
+
+}
+.centericon{
+  padding: 50px;
+
+
+}
+figure{
+  display: inline-block;
+  margin: 20px;
+}
+figure img{
+  vertical-align: top;
+}
+figure figcaption{
+  border: 1px dotted blue;
+  text-align: center;
+}
+#gal{
+  clear: both;
+  text-align: center;
+}
+.zoom:hover{
+ justify-content: center;
+ transform: scale(1.5);
+}

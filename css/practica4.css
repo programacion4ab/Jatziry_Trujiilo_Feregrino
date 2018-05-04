@@ -1,0 +1,69 @@
+ss@font-face {
+	font-family: Marseline;
+	src:url(../font/Marseline.ttf);
+}
+article{
+  text-align: center;
+
+}
+html{
+ background-image: url(../img/descarga.jpg);
+
+}
+figure{
+font-size: 50px ; 
+display: inline-block;
+ margin: 20px;
+ text-align: center;
+ padding-left: 500px;
+ 
+} 
+h1{
+  font-family: Marseline;
+  color:#CD6155;
+  background-color:#FADBD8;
+  font-size: 40px;
+  background-size: 25px;
+  text-align: center;
+}
+  h2{
+  font-family: Marseline;
+  color:#CD6155;
+  background-color: #FADBD8;
+  font-size: 30px;
+  background-size: 25px;
+  text-align: center;
+  
+
+  }
+  h3{
+  font-family: Marseline;
+  color:#CD6155;
+  background-color: #FADBD8;
+  font-size: 30px;
+  background-size: 25px;
+  text-align: center;
+
+  }
+   h4{
+  font-family: Marseline;
+  color:#CD6155;
+  background-color:#FADBD8;
+  font-size: 30px;
+  background-size: 30px;
+  text-align: center;
+}
+li{
+  background-color:#FADBD8;
+  color:blue;
+  text-decoration-style: none;
+  font-size:30px;
+}
+ h5{
+  font-family: Marseline;
+  color:bold;
+  background-color:#FFD700;
+  font-size: 30px;
+  background-size: 25px;
+  text-align: center;
+  } 

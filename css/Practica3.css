@@ -1,0 +1,48 @@
+@font-face {
+	font-family: Marseline;
+	src:url(../font/Marseline.ttf);
+}
+header{
+  text-align: center;
+  background-image: url(../img/back5.jpg);
+ 
+}
+h1{
+  font-family: Marseline;
+  color:#FF8364;
+  background-color:#ECF0F1;
+  font-size: 30px;
+  background-size: 25px;
+  text-align: center;
+
+}
+h2{
+  font-family: "Century Gothic";
+color: #334258;
+text-align: center;
+font-size: 100px ;
+}
+h3{
+font-family: Marseline;
+  color:bold;
+  background-color:#543982;
+  font-size: 40px;
+  background-size: 25px;
+  text-align: center;;
+
+}
+figure{
+font-size: 50px ; 
+display: inline-block;
+ margin: 20px;
+} 
+section{
+  padding: 12px;
+ padding-left: 150px;
+ padding-right: 160px;
+ margin: 25px;
+
+}
+
+
+  
